@@ -23,7 +23,7 @@ Computer Science student at Federal University of Itajubá (UNIFEI) passionate a
 
 ### 📈 GitHub Stats
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=flp-gregorio&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flp-gregorio&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flp-gregorio&layout=compact&theme=radical&hide=shaderlab)
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-gregorio-85bb4b1a2)
